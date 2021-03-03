@@ -6,4 +6,4 @@ update
 
 test
 
-test
+test update
